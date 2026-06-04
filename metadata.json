@@ -1,0 +1,6 @@
+{
+  "name": "RC Dubber AI Pro",
+  "description": "ប្រព័ន្ធជំនាន់ចុងក្រោយបង្អស់សម្រាប់ការផលិតវីដេអូ និងបកប្រែសំឡេង ល្អបំផុតសម្រាប់ការក្លូនសំឡេងសកម្ម (Professional AI Voice Cloning, Speech Translation, and Digital Audio Dubbing Studio)",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
